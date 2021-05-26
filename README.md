@@ -1,6 +1,6 @@
 ### Hi 👋 am Emmanuel Nyachoke
 
-- I a devops Engineer
+- I am devops Engineer
 - 🌱 I’m currently learning  [RISC-V](https://riscv.org/) and [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array#:~:text=A%20field%2Dprogrammable%20gate%20array,term%20%22field%2Dprogrammable%22.)
 - 💬 Ask me about ... IOT and Blockchain
 - 📫 How to reach me: achachiez@gmail.com
